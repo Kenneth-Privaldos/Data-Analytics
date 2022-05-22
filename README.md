@@ -1,2 +1,2 @@
 # Data-Analytics
-This repository is an archive of data analytics that I've done. 
+This repository is an archive of the project that I've done during Google Data Analytics Certification. 
